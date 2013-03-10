@@ -41,7 +41,6 @@ PRODUCT_PACKAGES += \
     gralloc.msm8660 \
     hwcomposer.msm8660 \
     lights.msm8660 \
-    gps.msm8660 \
     power.msm8660
 
 # Audio
